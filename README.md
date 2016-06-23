@@ -11,20 +11,20 @@ There is an entry level Python presentation I shared, you can found the video [h
 ## Learning Resources
 
 ### New programmers
-For people who have never programmed, an online interactive course like [code cademy (python 2)](https://www.codecademy.com/learn/python) is highly recommended. There are many of them online now. Other online courses includes:
+For people who have never programmed, an online interactive course like [code cademy (python 2)](https://www.codecademy.com/learn/python) is highly recommended. Other online courses includes:
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - *Python Wiki*'s Beginner Guide for [non-programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) also includes a list of interactive courses and other useful resources
 
 ### (Online) Books
-- [The Hitchhiker's Guide to Python](docs.python-guide.org) is a great place to get started, especially for experienced programmers
+- [The Hitchhiker's Guide to Python](docs.python-guide.org) is a great place to get started especially for experienced programmers
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - although personally not my favourite at all,  many people do recommend it
-- [Dive Into Python](http://www.diveintopython.net/) is a really nice book for experienced progammers, it is a bit dated.
-- [Dive Into Python 3](http://www.diveintopython3.net/) is a brilliant book for anyone who wants to understand Python 3.
-- [Effective Python](http://www.effectivepython.com/) - you would have to pay for this one, but this is one of the best books I found useful. Reading this book helps you avoid so many pitfalls. Strongly recommend.
-- [Full Stack Python](http://www.fullstackpython.com/) includes huge amount of Python resources for programmers who wants to dive deep
+- [Dive Into Python](http://www.diveintopython.net/) is a in-depth book for experienced progammers. Do note that it is about Python 2 and is a bit dated.
+- [Dive Into Python 3](http://www.diveintopython3.net/) is a brilliant book for anyone who wants to understand Python 3 and its difference from Python 2. 
+- [Effective Python](http://www.effectivepython.com/) - you would have to pay for this one, but this is one of the best books I found about how to write good Python code. Reading this book helps you avoid so many pitfalls. I strongly recommend it, and it includes both Python 2 and 3 examples
+- [Full Stack Python](http://www.fullstackpython.com/) includes huge amount of Python resources for programmers who wants to build Python softwares
 
 ### Styling Guides
-In Python, styling guides are NOT just about styles. By adopting [PEP8](https://www.python.org/dev/peps/pep-0008/), you are essentially chosing a more **effecient**, **bug-free**, and readable way to write your code. 
+In Python, styling guides are **NOT** just about styles. By adopting [PEP8](https://www.python.org/dev/peps/pep-0008/), you are essentially chosing a more **effecient**, **bug-free**, and readable way to write your code. **Adopting PEP8 early** allows you to avoid 90% of pitfalls. 
 
 - [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) is a famous short paragraph about the spirit of Python. 
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is an interesting read.
