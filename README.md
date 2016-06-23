@@ -29,6 +29,9 @@ In Python, styling guides are **NOT** just about styles. By adopting [PEP8](http
 - [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) is a famous short paragraph about the spirit of Python. 
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is an interesting read.
 
+### Online Exercise
+1. [Hackerrank Python](https://www.hackerrank.com/domains/python)
+
 ### Links of Resources that Links Resources
 
 - *Full Stack Python*'s [Best Python Resources Page](https://www.fullstackpython.com/best-python-resources.html)
