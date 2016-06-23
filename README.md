@@ -22,6 +22,13 @@ For people who have never programmed, an online interactive course like [code ca
 - [Dive Into Python 3](http://www.diveintopython3.net/) is a brilliant book for anyone who wants to understand Python 3 and its difference from Python 2. 
 - [Effective Python](http://www.effectivepython.com/) - you would have to pay for this one, but this is one of the best books I found about how to write good Python code. Reading this book helps you avoid so many pitfalls. I strongly recommend it, and it includes both Python 2 and 3 examples
 - [Full Stack Python](http://www.fullstackpython.com/) includes huge amount of Python resources for programmers who wants to build Python softwares
+- [Parallel Programming with Python](https://github.com/Voidly/Parallel-Programming-with-Python) Parallel Programming with Python, a book about parallel in python, and it has been translated into chinese.
+- [Awesome Python CN](https://github.com/jobbole/awesome-python-cn) awesome Python in chinese.
+- [Python Tutorial CN](http://www.pythondoc.com/pythontutorial27/index.html) Python tutorial in chinese.
+- [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) Directory of Python books.
+- [Cabbird](https://github.com/xsank/cabbird) A set of algorithms written in python.
+- [Python Reference](https://github.com/rasbt/python_reference) Useful functions, tutorials, and other Python-related things.
+- [Notes Python](https://github.com/lijin-THU/notes-python) The Python notebook in chinese.
 
 ### Styling Guides
 In Python, styling guides are **NOT** just about styles. By adopting [PEP8](https://www.python.org/dev/peps/pep-0008/), you are essentially chosing a more **effecient**, **bug-free**, and readable way to write your code. **Adopting PEP8 early** allows you to avoid 90% of pitfalls. 
